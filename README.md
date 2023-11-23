@@ -11,10 +11,16 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 #Site Overview
 
-![Screenshot (125)](https://github.com/Veda19g/AirBNB-clone-using-React/assets/127167049/a67c6e62-a2c6-4007-9ac3-e3d01a3fc2f6)
+![Screenshot (126)](https://github.com/Veda19g/AirBNB-clone-using-React/assets/127167049/979a9692-a984-46fb-944c-252a8d56041e)
+
+#Concepts-learned
+
+Learnt many concepts of React Such as Props,JSX .
+This was my first project while using react.had a great fun in doing the project
 
